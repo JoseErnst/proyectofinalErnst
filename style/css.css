@@ -1,0 +1,15 @@
+.container-fluid {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Open Sans, Arial, sans-serif;
+}
+
+.navbar-collapse {
+    flex-grow: inherit;
+    padding-right: 10vw;
+}
+
+.navbar-brand {
+    padding-left: 10vw;
+    font-size: 35px;
+}
